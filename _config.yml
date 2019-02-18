@@ -1,23 +1,30 @@
 # Site settings
-title: Hux Blog
-SEOTitle: 松下百合子博客 | Hux Blog
-header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "关于程序与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://huangxuan.me"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+title: BunToy
+SEOTitle: BunToy Studio | Blog
+header-img: img/home.jpg
+email: danielxia082@gmail.com
+description: "关于Buntoy.程序与设计 | 松下百合子，Web & Mobile Lover，Software Engineer，UX Designer | 这里是松下百合子个人博客，与你一起发现更大的世界。"
+keyword: "Daniel,松下百合子,小小蓝莓,小小蓝莓的博客, BunToy Blog,BunToy Wallet, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计,Android"
+
+
+# Secondary Parameters
+url: "https://buntoy.com"              # your host, for absolute URL
+baseurl: ""                            # for example, '/blog' if your blog hosted on 'host/blog'
+headercolor: "#FFFFFF"
+logo: img/logo/Project-Pages-New-Logo-Inverted.png
+
+
 
 # Publish posts or collection documents with a future date.
 future: true
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
+weibo_username:     松下百合子
+zhihu_username:     松下百合子
+github_username:    松下百合子
+twitter_username:   松下百合子
+#facebook_username:  松下百合子
 #linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -38,7 +45,8 @@ anchorjs: true                          # if you want to customize anchor. check
 # from PR#40, to support local preview for Jekyll 3.0
 # make sure you have this gem installed
 # `$ gem install jekyll-paginate`
-plugins: [jekyll-paginate]
+#jekyll（读杰克尔）
+plugins: [jekyll-paginate]   
 
 
 
@@ -59,7 +67,7 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: hux
+disqus_username: 松下百合子
 
 # Netease settings
 netease_comment: false
@@ -68,17 +76,17 @@ netease_comment: false
 
 # Analytics settings
 # Baidu Analytics 
-# ba_track_id: [your track id]
+baidu-analysis:f66b9ac164a152d61b378211a419177b
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
-
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: huangxuan.me
+google-analysis:YtetPDGd1WFc9OLkb9kRFtjvw8Sl21jVJu51i13z6FQ
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "For the next quantum leap<br>离开世界之前，一切都是过程"
+sidebar-about-description: "松下百合子<br>欢迎你的到来"
 sidebar-avatar: /img/avatar-hux-ny.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -106,8 +114,8 @@ friends: [
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
-        title: "乱序",
-        href: "http://mida.re/"
+        title: "BunToy CSDN",
+        href: "https://blog.csdn.net/xiabing082"
     },{
         title: "前端外刊评论",
         href: "http://qianduan.guru/"
@@ -130,10 +138,10 @@ friends: [
         title: "DHong Say",
         href: "http://dhong.co"
     },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
+        title: "170MV",
+        href: "http://www.170mv.com/"
     },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
+        title: "PicArt",
+        href: "https://picsart.com/explore?hl=zh"
     }
 ]
