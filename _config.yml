@@ -11,7 +11,7 @@ keyword: "Daniel,松下百合子,小小蓝莓,小小蓝莓的博客, BunToy Blog
 url: "https://buntoy.com"              # your host, for absolute URL
 baseurl: ""                            # for example, '/blog' if your blog hosted on 'host/blog'
 headercolor: "#FFFFFF"
-logo: img/logo/Project-Pages-New-Logo-Inverted.png
+#logo: img/logo/Project-Pages-New-Logo-Inverted.png
 
 
 
