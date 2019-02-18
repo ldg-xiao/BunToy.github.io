@@ -76,12 +76,12 @@ netease_comment: false
 
 # Analytics settings
 # Baidu Analytics 
-baidu-analysis:f66b9ac164a152d61b378211a419177b
+#baidu-analysis:f66b9ac164a152d61b378211a419177b
 
 # Google Analytics
 #ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
 #ga_domain: huangxuan.me
-google-analysis:YtetPDGd1WFc9OLkb9kRFtjvw8Sl21jVJu51i13z6FQ
+#google-analysis:YtetPDGd1WFc9OLkb9kRFtjvw8Sl21jVJu51i13z6FQ
 
 
 # Sidebar settings
