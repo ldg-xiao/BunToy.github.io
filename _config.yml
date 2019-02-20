@@ -79,8 +79,8 @@ netease_comment: false
 #baidu-analysis:f66b9ac164a152d61b378211a419177b
 
 # Google Analytics
-#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: huangxuan.me
+ga_track_id: 'UA-134826625-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto
 #google-analysis:YtetPDGd1WFc9OLkb9kRFtjvw8Sl21jVJu51i13z6FQ
 
 
