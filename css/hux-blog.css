@@ -972,6 +972,7 @@ samp {
   }
 }
 .intro-header {
+   	
   background: no-repeat center center;
   background-color: #cccccc;
   background-attachment: scroll;
@@ -981,6 +982,7 @@ samp {
   -o-background-size: cover;
   margin-bottom: 0px;
   /* 0 on mobile, modify by Hux */
+  min-height: 800px;
 }
 .intro-header.style-text {
   background: none;
