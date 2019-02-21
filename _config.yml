@@ -20,10 +20,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     松下百合子
-zhihu_username:     松下百合子
-github_username:    松下百合子
-twitter_username:   松下百合子
+#weibo_username:     松下百合子
+#zhihu_username:     松下百合子
+github_username:    buntoy
+twitter_username:   buntoywallet
 #facebook_username:  松下百合子
 #linkedin_username:  firstname-lastname-idxxxx
 
