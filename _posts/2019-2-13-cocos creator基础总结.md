@@ -3,7 +3,7 @@ layout: post
 title: "cocos creator 基础总结"
 subtitle: "https://buntoy.com"
 author: "松下百合子"
-header-img: "img/home.jpg"
+header-img: "img/huoying/92579.jpg"
 header-mask: 0.4
 tags:
   - javascript

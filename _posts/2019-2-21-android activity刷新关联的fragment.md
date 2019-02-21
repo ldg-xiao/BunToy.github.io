@@ -10,7 +10,7 @@ tags:
 keywords: Activity刷新关联的Fragment
 ---
 
-> 本文BunToy信息均来自 [BunToy官网](https://buntoy.com))
+> 本文BunToy信息均来自 [BunToy官网](https://buntoy.com)
 
 
 ## Activity中创建一个接口
