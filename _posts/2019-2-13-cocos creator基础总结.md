@@ -90,6 +90,12 @@ cc.game.removePersistRootNode(myNode); //取消常驻节点
 
 4.动作操作
 
+关于动作，参考官方教程以及API：
+
+http://docs.cocos.com/creator/manual/zh/scripting/actions.html  官方教程
+
+http://docs.cocos.com/creator/manual/zh/scripting/action-list.html  动作API
+
 ```ruby
 cc.show()//立即显示
 cc.hide ()//立即隐藏
@@ -111,9 +117,12 @@ var action = cc.moveTo(2, 100, 100);// 创建一个移动动作
 node.runAction(action);// 执行动作
 node.stopAction(action);// 停止一个动作
 
+cc.flipX(true),//翻转X轴节点
+
 cc.sequence(action1,action2); //按顺序连续执行，先action1，后action2
 
 cc.spawn(action1，action2); //同时执行，action1和action2一起执行
+
 cc.repeatForever(cc.sequence(action1,action2)); //一直重复括号里的动作
 ```
 
