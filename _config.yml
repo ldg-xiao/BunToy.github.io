@@ -67,11 +67,12 @@ kramdown:
 
 
 # Disqus settings
-disqus_username: xiabing
+#disqus_username: xiabing
 
 # Netease settings
 netease_comment: false
 
+# gitalk settings
 gitalk:
    enable: true
    owner: BunToy
