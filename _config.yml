@@ -143,5 +143,8 @@ friends: [
     },{
         title: "PicArt",
         href: "https://picsart.com/explore?hl=zh"
+    },{
+        title: "一之笔的博客",
+        href: "https://yizibi.github.io/"
     }
 ]
