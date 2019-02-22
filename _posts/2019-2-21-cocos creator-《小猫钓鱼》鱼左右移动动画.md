@@ -5,6 +5,7 @@ subtitle: "https://buntoy.com"
 author: "松下百合子"
 header-img: "img/huoying/92580.jpg"
 header-mask: 0.4
+catalog: true
 tags:
   - cocos creator
 ---
