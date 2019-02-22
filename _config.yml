@@ -72,7 +72,13 @@ disqus_username: xiabing
 # Netease settings
 netease_comment: false
 
-
+gitalk:
+   enable: true
+   owner: BunToy
+   repo: BunToy.github.io
+   clientID: ba6e35f75f5e098f9887
+   clientSecret: 63e1027c0a9c91b5e94b3ecc38e7b9d008de23c5
+   admin: BunToy
 
 # Analytics settings
 # Baidu Analytics 
