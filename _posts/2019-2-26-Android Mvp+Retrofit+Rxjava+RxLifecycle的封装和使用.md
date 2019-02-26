@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:    "Mvp+Retrofit+Rxjava+RxLifecycle的封装和使用"
+title:    "Android Mvp+Retrofit+Rxjava+RxLifecycle的封装和使用"
 subtitle:   "框架学习"
 author:     "松下百合子"
 header-img: "img/huoying/92582.jpg"
