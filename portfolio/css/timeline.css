@@ -25,7 +25,8 @@ body, html {
 }
 
 .head-bg{
-	background-image: ../img/home-bg-art.jpg
+	
+	/*background-color: #bbaac5; */
 }
 
 @font-face {
