@@ -28,6 +28,14 @@ body, html {
 	background-color: #bbaac5; 
 }
 
+table.table>tbody th,{
+ border: 0px solid #eee;
+}
+
+.table>tbody>tr>th {
+  border-top: 0px solid #ddd;
+}
+
 @font-face {
 	font-family: 'huxico';
 	src:url('../fonts/huxico.eot');
