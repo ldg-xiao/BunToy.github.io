@@ -24,6 +24,10 @@ body, html {
 	margin: 0 auto;
 }
 
+.head-bg{
+	background-image: ../img/home-bg-art.jpg
+}
+
 @font-face {
 	font-family: 'huxico';
 	src:url('../fonts/huxico.eot');
