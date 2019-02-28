@@ -319,9 +319,9 @@ $("#magic li").find("a.playIcon").click(function () {
 	//音乐播放器 收缩、展开----------------------------------------------
 	var fold=true;//标识
 	
-	//页面加载时，播放器运动出来，延迟2秒，运动回去
+	//页面加载时，播放器运动出来，延迟2秒，运动回去  slideOut($(this));
 	$(".jp-video").animate({left:0},"slow",function(){
-		slideOut($(this));		
+		slideIn($(this));	 		
 	}).delay(2000).animate({left:"-480px"},350,function(){
 		slideIn($(this));	
 	});
