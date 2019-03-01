@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:    "Android错误：Connect to 127.0.0.1.1080 [/127.0.0.1] failed: Connection refused: connect"
+title:    "Android错误：Connect to 127.0.0.1.1080failed: Connection refused: connect"
 subtitle:   "异常错误"
 author:     "松下百合子"
 header-img: "img/huoying/92583.jpg"
