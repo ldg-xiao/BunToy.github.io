@@ -13,7 +13,7 @@ tags:
 
 > [动作官方教程:http://docs.cocos.com/creator/manual/zh/scripting/actions.html](http://docs.cocos.com/creator/manual/zh/scripting/actions.html) 
 
-> [动作API:http://docs.cocos.com/creator/manual/zh/scripting/action-list.html(http://docs.cocos.com/creator/manual/zh/scripting/action-list.html) 
+> [动作API:http://docs.cocos.com/creator/manual/zh/scripting/action-list.html](http://docs.cocos.com/creator/manual/zh/scripting/action-list.html) 
 
 ## scaleTo
   
