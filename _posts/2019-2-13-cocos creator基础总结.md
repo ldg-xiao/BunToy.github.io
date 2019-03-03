@@ -6,7 +6,7 @@ author: "松下百合子"
 header-img: "img/huoying/92579.jpg"
 header-mask: 0.4
 tags:
-  - javascript
+  - cocos creator
 ---
 
 > 本文BunToy信息均来自 [BunToy官网](https://buntoy.com) ;)

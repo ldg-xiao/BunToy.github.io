@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cocos creator 动作系统"
+title: "cocos creator 动作系统scaleTo,scaleBy"
 subtitle: "https://buntoy.com"
 author: "松下百合子"
 header-img: "img/home.jpg"
@@ -11,6 +11,9 @@ tags:
 
 > 本文BunToy信息均来自 [BunToy官网](https://buntoy.com) ;)
 
+> [动作官方教程:http://docs.cocos.com/creator/manual/zh/scripting/actions.html](http://docs.cocos.com/creator/manual/zh/scripting/actions.html) 
+
+> [动作API:http://docs.cocos.com/creator/manual/zh/scripting/action-list.html(http://docs.cocos.com/creator/manual/zh/scripting/action-list.html) 
 
 ## scaleTo
   
