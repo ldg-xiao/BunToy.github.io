@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "cocos creator 动作系统scaleTo,scaleBy"
+title: "cocos creator 6.动作系统scaleTo,scaleBy"
 subtitle: "https://buntoy.com"
 author: "松下百合子"
 header-img: "img/home.jpg"
