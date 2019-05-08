@@ -24,9 +24,8 @@ label.textColor = UIColor.blackColor()
 ```
 
 - 字体样式：粗体、大小等
-
-font设置文字大小，默认为17
 ```ruby
+font设置文字大小，默认为17
 label.font=UIFont.systemFont(ofSize:20)//一般方法
 label.font=UIFont.boldSystemFont(ofSize:20)//加粗方法
 label.font=UIFont.init(name:"Avenir-Oblique", size: 20)////指定字体的方法
