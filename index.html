@@ -5,6 +5,7 @@ description: "生活中最沉重的负担不是工作，而是无聊"
 
 {% for post in paginator.posts %}
 <div class="post-preview">
+
     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">
             {{ post.title }}
